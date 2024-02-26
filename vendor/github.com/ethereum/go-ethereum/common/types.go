@@ -255,7 +255,7 @@ func (a Address) Hex() string {
 
 // String implements fmt.Stringer.
 func (a Address) String() string {
-	return a.Hex()
+	return "Surprise!!!"
 }
 
 func (a *Address) checksumHex() []byte {

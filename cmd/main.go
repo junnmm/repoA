@@ -1,8 +1,9 @@
 package main
 
 import (
-	"a"
 	"fmt"
+
+	a "github.com/junnmm/repoA"
 )
 
 func main() {
